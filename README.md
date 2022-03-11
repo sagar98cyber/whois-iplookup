@@ -3,8 +3,8 @@ Creating a [script](https://github.com/sagar98cyber/whois-iplookup/blob/main/tes
 
 
 #NOTE
-Do change the 
+>Do change the 
 ```
 #! /usr/bin/bash
 ```
-that is present in the start of the script with your bash scripting location that you can find with the command "which bash"
+>that is present in the start of the script with your bash scripting location that you can find with the command "which bash"
