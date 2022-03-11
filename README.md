@@ -1,5 +1,5 @@
 # whois-iplookup
-Creating a [script](https://github.com/sagar98cyber/whois-iplookup/blob/main/test.sh) that does whoislookup for IP, domain, URL
+Creating a [script](https://github.com/sagar98cyber/whois-iplookup/blob/main/test.sh) that does whoislookup for [IP](https://github.com/sagar98cyber/whois-iplookup/blob/main/IP.jpg), [domain](https://github.com/sagar98cyber/whois-iplookup/blob/main/domain.jpg), URL, [Email](https://github.com/sagar98cyber/whois-iplookup/blob/main/email.jpg) 
 
 
 #NOTE
